@@ -1,0 +1,32 @@
+Arguments: 
+  /home/william/.nvm/versions/node/v14.15.0/bin/node /home/william/.nvm/versions/node/v14.15.0/bin/yarn add express
+
+PATH: 
+  /home/william/.nvm/versions/node/v14.15.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/william/Android/Sdk/emulator:/home/william/Android/Sdk/tools:/home/william/Android/Sdk/tools/bin:/home/william/Android/Sdk/platform-tools
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  14.15.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: getaddrinfo EAI_AGAIN registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26)
+
+npm manifest: 
+  {
+    "name": "desafiodowhile",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
